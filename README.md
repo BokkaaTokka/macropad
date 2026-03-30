@@ -29,5 +29,8 @@ I wanted to try a kind of mounting that I have never used before. The nut and en
 * QMK firmware
 * Soldering iron
 
+###Current state
+I'm done with designing PCB, case and firmware. The current version has two layers, for CAD and normal use, this will be modified later.
+
 ### The future
 I will definitly change the firmware a bit once I have tested the functionality, add an animation to the OLED and update the keymap. But it will get a lot easier once I have the physical product to test on.
