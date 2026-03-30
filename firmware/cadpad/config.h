@@ -1,0 +1,17 @@
+#pragma once
+
+#define VENDOR_ID 0x1234
+#define PRODUCT_ID 0x5678
+#define DEVICE_VER 0x0001
+
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP6
+#define I2C1_SCL_PIN GP7
+
+#define OLED_DISPLAY_128X32
+#define OLED_TIMEOUT 20000
+
+#define ENCODER_A_PINS {GP29}
+#define ENCODER_B_PINS {GP0}
+#define ENCODER_RESOLUTION 4
+#define ENCODER_BTN_PIN GP3
