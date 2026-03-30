@@ -1,0 +1,20 @@
+#pragma once
+#include "quantum.h"
+
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET
+
+#define MATRIX_ROWS 3
+#define MATRIX_COLS 3
+#define MATRIX_ROW_PINS {GP2, GP1, GP0}
+#define MATRIX_COL_PINS {GP8, GP9, GP10}
+#define DIODE_DIRECTION ROW2COL
+
+#define ENCODERS_A_PINS {GP3}
+#define ENCODERS_B_PINS {GP7}
+#define ENCODER_RESOLUTION {4}
+
+#define OLED_DISPLAY_128x32
+#define I2C_DRIVER I2C1
+#define OLED_SCL_PIN GP5
+#define OLED_SDA_PIN GP4
+#define OLED_I2C_ADDRESS 0x3C
