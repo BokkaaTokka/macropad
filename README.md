@@ -29,7 +29,8 @@ I wanted to try a kind of mounting that I have never used before. The nut and en
 * QMK firmware
 * Soldering iron
 
-###Current state
+### Current state
+
 I'm done with designing PCB, case and firmware. The current version has two layers, for CAD and normal use, this will be modified later.
 
 ### The future
