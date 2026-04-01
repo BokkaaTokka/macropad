@@ -29,7 +29,13 @@ I wanted to try a kind of mounting that I have never used before. The nut and en
 * QMK firmware
 * Soldering iron
 
-###PCB
+
+
+
+### Current state
+
+I'm done with designing PCB, case and firmware. The current version has two layers, for CAD and normal use, this will be modified later.
+
 Below is a screenshot of the current PCB routing, I had tho change the placing of the diodes, as the may be in the way of the buttons.
 ![Mounting](electronics design/PCB_final_routing.png)
 
