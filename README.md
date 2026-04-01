@@ -29,5 +29,9 @@ I wanted to try a kind of mounting that I have never used before. The nut and en
 * QMK firmware
 * Soldering iron
 
+###PCB
+Below is a screenshot of the current PCB routing, I had tho change the placing of the diodes, as the may be in the way of the buttons.
+![Mounting](electronics design/PCB_final_routing.png)
+
 ### The future
 I will definitly change the firmware a bit once I have tested the functionality, add an animation to the OLED and update the keymap. But it will get a lot easier once I have the physical product to test on.
